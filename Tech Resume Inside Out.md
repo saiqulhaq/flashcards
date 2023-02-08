@@ -1,4 +1,5 @@
-who are the roles during recruitment process?: #flashcard #recruitment
+#flashcard #recruitment
+who are the roles during recruitment process?
 the roles are:
 
 1. hiring manager: the one has decision to hire or not, decide how many person needed, etc
