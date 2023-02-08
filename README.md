@@ -8,6 +8,7 @@ Following is the template example:
 
 This is an example note with various cards to show what you can do.
 
+```
 You can import this file directly to the NeuraCache app to see what the effect will be
 (No Ads, No Signup, Generous Free Tier, Offline)
 
@@ -56,6 +57,4 @@ You can also use local images. Just make sure that within the NeuraCache app, yo
 
 and here is a more professional video on regular cards 
 https://youtu.be/RsV3qMUkgoA
-
-Feedback or Questions?
-reach me out via email (hello@idearoots.com) or Twitter (@marcin_czech or @NeuraCache)
+```
