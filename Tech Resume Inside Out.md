@@ -1,4 +1,4 @@
-who are the roles during recruitment process?
+who are the roles during recruitment process?:
 
 1. hiring manager: the one has decision to hire or not, decide how many person needed, etc
 2. recruiter: coordinates everything on the recruitment side
@@ -10,5 +10,3 @@ who are the roles during recruitment process?
 #recruitment
 
 ---
-
-ASDASDSD? : 5.3M ⚡️ #nature #travel
